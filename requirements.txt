@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+xlsxwriter
+playwright
+bs4
+cloudscraper
+webdriver-manager
+selenium
+undetected-chromedriver
+selenium-stealth==1.0.6
